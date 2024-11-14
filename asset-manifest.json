@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a07e5a54.css",
-    "main.js": "/static/js/main.986fe80e.js",
+    "main.js": "/static/js/main.1ff4a3ed.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
     "static/media/FishFriesDetails.pdf": "/static/media/FishFriesDetails.f229956a201d21260afe.pdf",
     "static/media/FishmartDetails.pdf": "/static/media/FishmartDetails.0a224414f640f180e269.pdf",
@@ -125,11 +125,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.a07e5a54.css.map": "/static/css/main.a07e5a54.css.map",
-    "main.986fe80e.js.map": "/static/js/main.986fe80e.js.map",
+    "main.1ff4a3ed.js.map": "/static/js/main.1ff4a3ed.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a07e5a54.css",
-    "static/js/main.986fe80e.js"
+    "static/js/main.1ff4a3ed.js"
   ]
 }
