@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3672c411.css",
-    "main.js": "/static/js/main.630f81ba.js",
+    "main.js": "/static/js/main.13fdcf69.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
     "static/media/FishFriesDetails.pdf": "/static/media/FishFriesDetails.f229956a201d21260afe.pdf",
     "static/media/FishmartDetails.pdf": "/static/media/FishmartDetails.0a224414f640f180e269.pdf",
@@ -42,6 +42,7 @@
     "static/media/bg_img.png": "/static/media/bg_img.fa204297b2a875aef518.png",
     "static/media/fs logo.png": "/static/media/fs logo.604e88a2e9a5d32e0c06.png",
     "static/media/pilot.png": "/static/media/pilot.2a0eaf2e743f7ec40696.png",
+    "static/media/blueCrab.jpeg": "/static/media/blueCrab.71c056ab0d06c5a3cdc4.jpeg",
     "static/media/whiteCarpFish.png": "/static/media/whiteCarpFish.85e9bd3c7e7000c3e790.png",
     "static/media/perch.jpeg": "/static/media/perch.0b03dbeb0a2862b1db08.jpeg",
     "static/media/dungness.png": "/static/media/dungness.089d18276c0986fcb8ef.png",
@@ -129,11 +130,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.3672c411.css.map": "/static/css/main.3672c411.css.map",
-    "main.630f81ba.js.map": "/static/js/main.630f81ba.js.map",
+    "main.13fdcf69.js.map": "/static/js/main.13fdcf69.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3672c411.css",
-    "static/js/main.630f81ba.js"
+    "static/js/main.13fdcf69.js"
   ]
 }
