@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a07e5a54.css",
-    "main.js": "/static/js/main.1ff4a3ed.js",
+    "main.css": "/static/css/main.3672c411.css",
+    "main.js": "/static/js/main.630f81ba.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
     "static/media/FishFriesDetails.pdf": "/static/media/FishFriesDetails.f229956a201d21260afe.pdf",
     "static/media/FishmartDetails.pdf": "/static/media/FishmartDetails.0a224414f640f180e269.pdf",
@@ -33,6 +33,7 @@
     "static/media/stoneCrab.png": "/static/media/stoneCrab.9bf229a9bb6d5a72555e.png",
     "static/media/codfish.png": "/static/media/codfish.f7786ada47e0baee87f7.png",
     "static/media/fishPickles.png": "/static/media/fishPickles.6c726d860fdeed2d61ae.png",
+    "static/media/mackerel.jpg": "/static/media/mackerel.735f7cb0c141dc238f3d.jpg",
     "static/media/lady.jpg": "/static/media/lady.1f1657d4331b7f31553f.jpg",
     "static/media/carousel_3.png": "/static/media/carousel_3.7d4aa2a708166f4756e5.png",
     "static/media/trendy_banner_111.png": "/static/media/trendy_banner_111.74bf325e767c5758a402.png",
@@ -44,6 +45,7 @@
     "static/media/whiteCarpFish.png": "/static/media/whiteCarpFish.85e9bd3c7e7000c3e790.png",
     "static/media/perch.jpeg": "/static/media/perch.0b03dbeb0a2862b1db08.jpeg",
     "static/media/dungness.png": "/static/media/dungness.089d18276c0986fcb8ef.png",
+    "static/media/holibut.jpeg": "/static/media/holibut.42f21479ccf928146dc3.jpeg",
     "static/media/fishKulambuMasala.jpeg": "/static/media/fishKulambuMasala.27a04a5c36b001e3d43d.jpeg",
     "static/media/driedShrimp.jpg": "/static/media/driedShrimp.74e4f58c888c09d96df3.jpg",
     "static/media/driedBombayDuckFish.png": "/static/media/driedBombayDuckFish.bf8a81fa8a3c732475d0.png",
@@ -64,6 +66,7 @@
     "static/media/herring.jpg": "/static/media/herring.5a61ae6ce99a39f5c9aa.jpg",
     "static/media/leadership.png": "/static/media/leadership.1e22ddc377fa024f1109.png",
     "static/media/Bream.jpg": "/static/media/Bream.654142acb071a21677c2.jpg",
+    "static/media/small_prawn.jpeg": "/static/media/small_prawn.54573886ebca7ab50190.jpeg",
     "static/media/northernPrawn.jpg": "/static/media/northernPrawn.e874bfc39095b6e56825.jpg",
     "static/media/silver.jpg": "/static/media/silver.6b12876d9cbdd0217388.jpg",
     "static/media/golden_fish.png": "/static/media/golden_fish.0a1c0aab0f80fc08231a.png",
@@ -72,6 +75,7 @@
     "static/media/haddock.jpg": "/static/media/haddock.5a5aab9fb350882754ca.jpg",
     "static/media/fishmart.jpg": "/static/media/fishmart.4fb76183ee03cc5f45bf.jpg",
     "static/media/whiteLegShrimp.jpg": "/static/media/whiteLegShrimp.758d32d5cd9cce10c084.jpg",
+    "static/media/king_fish.jpg": "/static/media/king_fish.efe5ac4bc69e0780d649.jpg",
     "static/media/blackTigerShrimp.jpg": "/static/media/blackTigerShrimp.92a9f07b8f4a444c60cb.jpg",
     "static/media/mullet.jpg": "/static/media/mullet.c5261c89da9290f9a522.jpg",
     "static/media/blackPomfret.jpg": "/static/media/blackPomfret.3b7359fe859a4a0cd131.jpg",
@@ -100,11 +104,11 @@
     "static/media/porgy.jpg": "/static/media/porgy.ccacd558102cad298589.jpg",
     "static/media/giantTigerShrimp.jpg": "/static/media/giantTigerShrimp.9e7ebfdec137e397e286.jpg",
     "static/media/dart.jpeg": "/static/media/dart.5053bbb583484a173fc8.jpeg",
+    "static/media/hilsa_fish.jpg": "/static/media/hilsa_fish.d835409a0e85afd5ec16.jpg",
     "static/media/driedCroakerFish.jpg": "/static/media/driedCroakerFish.9b7d0fc1ebb18172212c.jpg",
     "static/media/seaCrab.jpg": "/static/media/seaCrab.b47b2dccbf19cf6b1a7c.jpg",
     "static/media/jumbo.jpg": "/static/media/jumbo.5b5e6c42ee034dc3d4d5.jpg",
     "static/media/eel.jpg": "/static/media/eel.173fca5182a6f90fce33.jpg",
-    "static/media/mackerel.jpg": "/static/media/mackerel.766d09bbe07ebc8055e6.jpg",
     "static/media/tonguesole.jpg": "/static/media/tonguesole.d36a84b5e2e1a505b536.jpg",
     "static/media/goat.jpg": "/static/media/goat.23d87f4c590b7dd116bb.jpg",
     "static/media/sardine.jpg": "/static/media/sardine.c1286254659664de1124.jpg",
@@ -124,12 +128,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.a07e5a54.css.map": "/static/css/main.a07e5a54.css.map",
-    "main.1ff4a3ed.js.map": "/static/js/main.1ff4a3ed.js.map",
+    "main.3672c411.css.map": "/static/css/main.3672c411.css.map",
+    "main.630f81ba.js.map": "/static/js/main.630f81ba.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a07e5a54.css",
-    "static/js/main.1ff4a3ed.js"
+    "static/css/main.3672c411.css",
+    "static/js/main.630f81ba.js"
   ]
 }
